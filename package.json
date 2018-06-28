@@ -1,0 +1,11 @@
+{
+  "name": "express-general-router",
+  "version": "0.0.1",
+  "description": "An example to illustrate a reusable router in express",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Kevin Hurley",
+  "license": "ISC"
+}
